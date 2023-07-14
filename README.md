@@ -3,7 +3,7 @@
 - 🌱 Estudando JavaScript
 - 💬 Contate-me no email ( samuelalvesvieira51@gmail.com )
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Um jovem ambicioso com grnades sonhos!
+- ⚡ Fun fact: Um jovem ambicioso com grandes sonhos!
 
 <div align="center">
   <a href="https://github.com/SamuelAlvesDeSousaVieira">
