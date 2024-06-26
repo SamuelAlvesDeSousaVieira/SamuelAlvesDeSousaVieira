@@ -1,9 +1,8 @@
-### Hello World! Sou Samuel Alves, criador de conteúdo de programação e tecnologia!  👋
+### My name is Samuel and I'm an analyst SOC studying cybersecurity!  👋
 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Cybersecurity
 - 💬 Contate-me no email ( samuelalvesvieira51@gmail.com )
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Um jovem ambicioso com grandes sonhos!
+- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/SamuelAlvesDeSousaVieira">
